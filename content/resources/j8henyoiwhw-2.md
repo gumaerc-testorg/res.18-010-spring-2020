@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/445758ba606b5bfb8f53949e24f7958e_j8hEnyOiwhw.vtt
+file: /media/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/445758ba606b5bfb8f53949e24f7958e_j8hEnyOiwhw.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 445758ba-606b-5bfb-8f53-949e24f7958e

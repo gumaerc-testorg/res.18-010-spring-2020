@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/5c9af56f8d1f2e1116261d52a93e57d4_MITRES_18_010S20_LA_Slides.pdf
+file: /media/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/5c9af56f8d1f2e1116261d52a93e57d4_MITRES_18_010S20_LA_Slides.pdf
 file_type: application/pdf
+learning_resource_types:
+- Videos
+ocw_type: OCWFile
+parent_title: Videos
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: RES.18.010 S2020 "A 2020 Vision of Linear Algebra" slides
 uid: 5c9af56f-8d1f-2e11-1626-1d52a93e57d4

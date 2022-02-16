@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/13c014d45cb504519389d6640e673ba4_ZoomNotes_18-010.pdf
+file: /media/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/13c014d45cb504519389d6640e673ba4_ZoomNotes_18-010.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: SupplementalResourceSection
 resourcetype: Document
 title: ZoomNotes for Linear Algebra
 uid: 13c014d4-5cb5-0451-9389-d6640e673ba4
