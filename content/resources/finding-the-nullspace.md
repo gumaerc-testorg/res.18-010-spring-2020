@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Videos
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Part 6: Finding the Nullspace: Solving Ax = 0 by Elimination'
 uid: 23c8fdcd-fb46-bc71-4637-b6c9ca27fb90
 video_files:
