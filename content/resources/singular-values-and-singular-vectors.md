@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -32,3 +33,6 @@ Data matrices in machine learning are not square, so they require a step beyond 
 **Slides Used in this Video:** Slides 25 through 30
 
 **Instructor:** Gilbert Strang
+
+
+

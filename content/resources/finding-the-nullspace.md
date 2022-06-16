@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -29,8 +30,11 @@ Description
 
 This new video computes the nullspace of any matrix _A_. The equation _Ax_ = 0 is reduced to row echelon form _Rx_ = 0. Then all solution vectors are combinations of "special solutions". We understand the pieces of _R_ from the factorization _A_ = _CR_.
 
-**Slides Used in this Video:** [Part 6: Finding the Nullspace: Solving _Ax_ = 0 by Elimination (PDF)]({{< baseurl >}}/resources/mitres_18_010s21_la_part6)
+**Slides Used in this Video:** {{% resource_link 72097974-c042-0264-f611-1a4c5087ac6d "Part 6: Finding the Nullspace: Solving _Ax_ = 0 by Elimination (PDF)" %}}
 
 See also [Lecture 7 from _18.06 Linear Algebra_](/1806videoslec7/) for more on this topic.
 
 **Instructor:** Gilbert Strang
+
+
+

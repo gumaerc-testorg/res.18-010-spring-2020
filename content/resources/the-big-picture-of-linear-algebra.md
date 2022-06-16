@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -32,3 +33,6 @@ Multiplication by A transforms the row space to the column space. Professor Stra
 **Slides Used in this Video:** Slides 10 through 14
 
 **Instructor:** Gilbert Strang
+
+
+

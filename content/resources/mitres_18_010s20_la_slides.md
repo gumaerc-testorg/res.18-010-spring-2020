@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/5c9af56f8d1f2e1116261d52a93e57d4_MITRES_18_010S20_LA_Slides.pdf
+file: /courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/5c9af56f8d1f2e1116261d52a93e57d4_MITRES_18_010S20_LA_Slides.pdf
 file_type: application/pdf
 learning_resource_types:
 - Videos

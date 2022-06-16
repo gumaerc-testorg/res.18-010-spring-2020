@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/99194b291ac8239a570fae0243489684_IHO7_n7Y09s.pdf
+file: /courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/99194b291ac8239a570fae0243489684_IHO7_n7Y09s.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

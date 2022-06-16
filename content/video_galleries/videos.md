@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: This section includes the 7 videos for this series on linear algebra.
 is_media_gallery: true
 learning_resource_types:
 - Videos
@@ -18,9 +19,9 @@ videos:
   website: res-18-010-a-2020-vision-of-linear-algebra-spring-2020
 ---
 
-The complete set of slides for [A 2020 Vision of Linear Algebra (PDF)]({{< baseurl >}}/resources/mitres_18_010s20_la_slides) (Intro through Part 5)
+The complete set of slides for {{% resource_link 5c9af56f-8d1f-2e11-1626-1d52a93e57d4 "A 2020 Vision of Linear Algebra (PDF)" %}} (Intro through Part 5)
 
-Slides for Part 6 (recorded in 2021): [Finding the Nullspace: Solving _Ax_ = 0 by Elimination (PDF)]({{< baseurl >}}/resources/mitres_18_010s21_la_part6)
+Slides for Part 6 (recorded in 2021): {{% resource_link 72097974-c042-0264-f611-1a4c5087ac6d "Finding the Nullspace: Solving _Ax_ = 0 by Elimination (PDF)" %}}
 
 {{< video-gallery "d7af6f0e-52b9-b87c-84b6-70fc3afc2552" >}}
 

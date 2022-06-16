@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -32,3 +33,6 @@ Professor Strang explains why he now starts linear algebra classes by explaining
 **Slides Used in this Video:** Slides 1 through 9
 
 **Instructor:** Gilbert Strang
+
+
+

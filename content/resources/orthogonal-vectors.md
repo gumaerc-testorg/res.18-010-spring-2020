@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Videos
@@ -32,3 +33,6 @@ Professor Strang describes in detail orthogonal vectors and matrices and subspac
 **Slides Used in this Video:** Slides 15 through 19
 
 **Instructor:** Gilbert Strang
+
+
+
