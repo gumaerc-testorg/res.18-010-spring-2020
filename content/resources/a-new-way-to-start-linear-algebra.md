@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -33,6 +34,4 @@ Professor Strang describes independent vectors and the column space of a matrix 
 **Slides Used in this Video:** Slide 2
 
 **Instructor:** Gilbert Strang
-
-
 

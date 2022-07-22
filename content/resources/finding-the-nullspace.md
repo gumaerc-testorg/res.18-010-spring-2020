@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -35,6 +36,4 @@ This new video computes the nullspace of any matrix _A_. The equation _Ax_ = 0 i
 See also [Lecture 7 from _18.06 Linear Algebra_](/1806videoslec7/) for more on this topic.
 
 **Instructor:** Gilbert Strang
-
-
 

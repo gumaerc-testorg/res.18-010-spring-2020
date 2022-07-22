@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -33,6 +34,4 @@ Eigenvalues and eigenvectors are a way to look deeper into the matrix. They have
 **Slides Used in this Video:** Slides 20 through 23
 
 **Instructor:** Gilbert Strang
-
-
 
