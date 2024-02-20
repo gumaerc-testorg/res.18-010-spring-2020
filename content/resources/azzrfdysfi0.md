@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/3f52af3aed9bc5d5507d310b4c965ea0_azzrfdysfI0.srt
+file_size: 18119
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
