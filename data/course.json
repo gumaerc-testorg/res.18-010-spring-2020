@@ -25,7 +25,7 @@
   "hide_download": false,
   "course_description": "This collection of videos presents Professor Strang\u2019s updated vision of how linear algebra could be taught.\n\nIt starts with six brief videos, recorded in 2020, containing many ideas and suggestions about the recommended order of topics in teaching and learning linear algebra. Topics include *A New Way to Start Linear Algebra*, *The Column Space of a Matrix,* *The Big Picture of Linear Algebra,* *Orthogonal Vectors,* *Eigenvalues and Eigenvectors,* and *Singular Values and Singular Vectors.*\n\nAn additional brief video, recorded in 2021, *Finding the Nullspace: Solving Ax = 0 by Elimination*, computes the nullspace of any matrix *A*.\n\nIn 2023, Professor Strang recorded a new one-hour video, *Five Factorizations of a Matrix,* providing an overall look at linear algebra by highlighting five different ways that a matrix gets factored.",
   "department_numbers": [
-    "RES"
+    "18"
   ],
   "extra_course_numbers": "",
   "primary_course_number": "RES.18-010",
