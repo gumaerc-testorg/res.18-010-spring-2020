@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/72097974c0420264f6111a4c5087ac6d_MITRES_18_010S21_LA_Part6.pdf
+file: /courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/72097974c0420264f6111a4c5087ac6d_MITRES_18_010S21_LA_Part6.pdf
 file_size: 297000
 file_type: application/pdf
 image_metadata:
