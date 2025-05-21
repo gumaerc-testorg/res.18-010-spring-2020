@@ -1,17 +1,25 @@
 leftnav:
+- identifier: 3b233dbc-99a3-4591-80da-a32192c9722e
+  name: About the Videos
+  pageRef: /pages/about-the-videos
+  weight: 10
 - identifier: d7af6f0e-52b9-b87c-84b6-70fc3afc2552
   name: 2020 Videos
   pageRef: /video_galleries/videos
-  weight: 10
+  weight: 20
 - identifier: 94102c10-a61e-495b-b2db-3220be47cf4a
   name: 2021 Video
   pageRef: /pages/2021-video
-  weight: 20
+  weight: 30
 - identifier: bd03df2d-5d8b-481b-8bb8-5ebf51713493
   name: 2023 Video
   pageRef: /pages/2023-video
-  weight: 30
+  weight: 40
+- identifier: c53ec217-f123-44e2-bb80-90e69be6f87d
+  name: 2024 Videos
+  pageRef: /video_galleries/2024-videos
+  weight: 50
 - identifier: d88ee1e7-0af9-160e-5a0d-6210e3f7aae6
   name: Related Resources
   pageRef: /pages/relatedresources
-  weight: 40
+  weight: 60

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/6722e9880c33549d982781cb4bcb3ad7_IHO7_n7Y09s.vtt
+file: /courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/6722e9880c33549d982781cb4bcb3ad7_IHO7_n7Y09s.vtt
 file_size: 16669
 file_type: application/x-subrip
 learning_resource_types: []
