@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/mitres_18_010_s20_slides.pdf
+file: /ol-ocw-studio-app/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/mitres_18_010_s20_slides.pdf
 file_size: 314160
 file_type: application/pdf
 image_metadata:

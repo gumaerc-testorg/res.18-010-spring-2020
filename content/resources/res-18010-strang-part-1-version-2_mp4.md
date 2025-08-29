@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/res-18010-strang-part-1-version-2_360p_16_9.mp4
+file: /ol-ocw-studio-app/courses/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/res-18010-strang-part-1-version-2_360p_16_9.mp4
 file_size: 35318520
 file_type: video/mp4
 image_metadata:
