@@ -11,7 +11,7 @@ This new video computes the nullspace of any matrix *A*. The equation *Ax* = 0 i
 
 **Slides Used in this Video:** {{% resource_link "7effacc6-71b1-4558-9d81-3f86510da051" "Part 6: Finding the Nullspace: Solving *Ax* = 0 by Elimination (PDF)" %}}
 
-See also [Lecture 7 from *18.06 Linear Algebra*](https://ocw.mit.edu/1806videoslec7/) for more on this topic.
+See also {{% resource_link "48039e0f-fd83-43c8-b96b-787314ab0179" "Lecture 7 from *18.06 Linear Algebra*" %}} for more on this topic.
 
 **Instructor:** Gilbert Strang
 
